@@ -1,0 +1,6 @@
+C:\GIT\Projects\GitHubProject\GitHubProject\bin\Debug\GitHubProject.exe.config
+C:\GIT\Projects\GitHubProject\GitHubProject\bin\Debug\GitHubProject.exe
+C:\GIT\Projects\GitHubProject\GitHubProject\bin\Debug\GitHubProject.pdb
+C:\GIT\Projects\GitHubProject\GitHubProject\obj\Debug\GitHubProject.csprojResolveAssemblyReference.cache
+C:\GIT\Projects\GitHubProject\GitHubProject\obj\Debug\GitHubProject.exe
+C:\GIT\Projects\GitHubProject\GitHubProject\obj\Debug\GitHubProject.pdb
